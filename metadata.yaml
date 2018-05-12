@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '31170'
     url: http://www.gutenberg.org/2009/agents/31170
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25233#El-m-n-taistelustaN-ytelm--viidess--n-yt-ksess-
 gutenberg_issued: '2008-04-29'
 gutenberg_type: Text
 identifiers:
